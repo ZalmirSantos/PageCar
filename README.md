@@ -36,4 +36,4 @@ This project represents one of my first practical experiences building websites 
 
 ## 👨‍💻 Author
 
-Zalmir Santos
+Zalmir Santos Paredes
